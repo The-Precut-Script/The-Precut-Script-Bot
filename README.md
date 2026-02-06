@@ -60,7 +60,6 @@ The bot began as an After Effects extension, and its features were transferred a
 1. Install dependencies:
 
 ```bash
-cd ae_scripts_bot
 pip install -r requirements.txt
 ```
 
